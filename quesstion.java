@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class question {
+public class quesstion {
     public static void main(String[] args) {
         System.out.println("enter hours wage");
         System.out.println("enter hourly work");
@@ -10,7 +10,4 @@ public class question {
 
     }
 }
-
-
-
 
