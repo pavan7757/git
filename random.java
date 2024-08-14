@@ -19,9 +19,8 @@ public class random {
             System.err.println("Try again");
 
 
-        } else {
-            System.out.println("try again");
         }
+
     }
 }
 
