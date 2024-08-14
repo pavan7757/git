@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class random {
+public class game {
     public static void main(String[] args) {
         Scanner Sc=new Scanner(System.in);
         System.err.println("enter number");
@@ -24,7 +24,5 @@ public class random {
         }
     }
 }
-
-
 
 
