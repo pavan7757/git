@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class numbertringle{
+public class numbertringle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
